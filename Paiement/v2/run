@@ -1,0 +1,4 @@
+#!/bin/bash
+./timeout_reduce
+python3 ./mdb_master_direct.py /dev/ttyUSB0
+

@@ -1,0 +1,35 @@
+/*
+grid{
+    background-image:none;
+    background-color:transparent;
+}
+
+*/
+
+#HeaderBox{
+    background-color:rgba(255,220,130,0.5);
+}
+
+notebook{
+    border:none;
+}
+    
+window{
+    background-image: url("Fond1.jpg");
+}
+
+
+button{
+    background-image:none;
+    background-color:rgba(226,226,226,0.8);
+    
+}
+
+#body_title{
+    color:black;
+}
+
+#label_avec_fond{
+    background-color:rgba(226,226,226,0.8);
+}
+
